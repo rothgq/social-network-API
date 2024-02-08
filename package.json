@@ -1,5 +1,5 @@
 {
-  "name": "social-network-API",
+  "name": "social-networking-api",
   "version": "1.0.1",
   "description": "API for networking featuring Mongoose",
   "main": "index.js",
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.3",
     "mongoose": "^7.0.2"
   }
 }
